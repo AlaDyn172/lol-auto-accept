@@ -4,5 +4,5 @@
 ### It also auto selects the gamemode and roles for you ( in case you're not in queue yet )
 
 ## Steps
-### 1. Change ``gamemode``, ``main_role`` and ``secondary_role`` from ``main.py`` file
+### 1. Change ``gamemode``(:8 line), ``main_role``(:10 line) and ``secondary_role``(:11 line) from ``main.py`` file
 ### 2. Start the ``main.py`` file.
